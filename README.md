@@ -42,7 +42,7 @@ composer run test
 
 ### Publish (Laravel)
 
-```
+```sh
 php artisan vendor:publish --provider="Kevincobain2000\LaravelAlertNotifications\AlertNotificationsServiceProvider"
 php artisan config:cache
 ```
